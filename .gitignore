@@ -42,6 +42,10 @@ rust/target/
 rust/mal
 rust/Cargo.lock
 rust/.cargo
+rust-mine/target/
+rust-mine/mal
+rust-mine/Cargo.lock
+rust-mine/.cargo
 r/lib
 vb/*.exe
 vb/*.dll

@@ -1,0 +1,11 @@
+[package]
+name = "rust-mal"
+version = "0.1.0"
+authors = ["Akbar Taufiq Herlangga <angga@atherlangga.com>"]
+
+[dependencies]
+time = "0.1"
+regex = "0.1"
+libc = "0.1"
+num = "0.1"
+readline = "0.0.11"
